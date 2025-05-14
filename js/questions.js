@@ -2,7 +2,7 @@
 let questions = [
     {
     numb: 1,
-    question: "What is the name of the safety sign?",
+    question: "What is the name of the safety sign as shown in the figure?",
     immg:"img1",
     answer: "Information Sign",
     options: [
@@ -25,30 +25,8 @@ let questions = [
   },
     {
     numb: 3,
-    question: "What is the physical hazard?",
+    question: "Which step of the 5s-concept refers Standardization?",
     
-    answer: "Vibration",
-    options: [
-      "Smoking",
-      "Vibration",
-      "Corrosive",
-      "Radio Active"
-    ]
-  },
-    {
-    numb: 4,
-    question: "Which is the correct sequence of operation to be performed when using the fire extinguisher?",
-    answer: "Pull, Aim, Squeeze,Sweep",
-    options: [
-      "Pull, Aim, Squeeze,Sweep",
-      "Pull, Aim, Sweep,Squeeze",
-      "Push, Arrange,Squeeze, Sweep ",
-      "Push, Arrange,Sweep, Sequence"
-    ]
-  },
-    {
-    numb: 5,
-    question: "Which step of the 5s-concept refers 'Standardization' ?",
     answer: "Step-4",
     options: [
       "Step-1",
@@ -57,26 +35,48 @@ let questions = [
       "Step-4"
     ]
   },
+    {
+    numb: 4,
+    question: "Which pliers is used for making the wire hooks and loops?",
+    answer: "Round nose pliers",
+    options: [
+      "Flat nose pliers",
+      "Long nose pliers",
+      "Round nose pliers",
+      "Diagonal cutting pliers"
+    ]
+  },
+    {
+    numb: 5,
+    question: "What is the use of the pincer?",
+    answer: "Extracting the pin nails from the wood",
+    options: [
+      "Twisting the flexible wires",
+      "Cutting larger diameter of wires",
+      "Extracting the pin nails from the wood",
+      "Holding small objects, where finger cannot reach"
+    ]
+  },
   {
     numb: 6,
     question: "Which plier is used for making wire hooks and loops?",
-    answer: "Round nose plier",
+    answer: "Yellow",
     options: [
-      "Flat nose plier",
-      "Long nose plier",
-      "Round nose plier",
-      "Diagonal cutting plier"
+      "Blue",
+      "White",
+      "Yellow",
+      "Green"
     ]
   },
   {
     numb: 7,
     question: "What is the use of pincer? ",
-    answer: "Extracting the pin nails from the wood",
+    answer: "Incineration",
     options: [
-      "Twisting the flexible wires ",
-      "Cutting small diameter of wires",
-      "Extracting the pin nails from the wood",
-      "Holding small objects, where fing"
+      "Landfill",
+      "Composting",
+      "Incineration",
+      "Water compaction"
     ]
   },
   {
