@@ -118,26 +118,26 @@ let questions = [
   },
      {
     numb: 11,
-    question: " Which is the waste disposal method that produces heat?",
-    
-    answer: "Incineration",
+    question: "What is the name of the drill bit as shown in the figure?",
+    immg:"img11",
+    answer: "Taper shank bit",
     options: [
-      "Recycling",
-      "Composting",
-      "Incineration",
-      "Waste compaction "
+      "Flat drill bit",
+      "Taper shank bit",
+      "countersink bit",
+      "straight shank bit"
     ]
   },
      {
     numb: 12,
-    question: " Which Personal Protective Equipment PPE is used for the protection from fumes?",
+    question: "Which file is used for sharpening the blunt teeth of a tenon saw?",
     
-    answer: "Nose mask",
+    answer: "NTriangular file",
     options: [
-      "Apron",
-      "Goggles",
-      "Ear mask ",
-      "Nose mask"
+      "square file",
+      "round file",
+      "Triangular file",
+      "half round file"
     ]
   },
  {
