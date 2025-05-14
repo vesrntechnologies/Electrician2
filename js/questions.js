@@ -143,7 +143,7 @@ let questions = [
  {
     numb: 13,
     question: " What is the full form of BIS?",
-    
+    immg:"img13",
     answer: "Bureau of Indian Standard",
     options: [
       "Board of Indian Standard",
