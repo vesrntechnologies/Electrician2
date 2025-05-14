@@ -1,4 +1,4 @@
-// creating an array and passing the number, questions, options, and answers
+,// creating an array and passing the number, questions, options, and answers
 let questions = [
     {
     numb: 1,
@@ -132,7 +132,7 @@ let questions = [
     numb: 12,
     question: "Which file is used for sharpening the blunt teeth of a tenon saw?",
     
-    answer: "NTriangular file",
+    answer: "Triangular file",
     options: [
       "square file",
       "round file",
