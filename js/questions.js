@@ -106,14 +106,14 @@ let questions = [
   },
     {
     numb: 10,
-    question: " Which type of fire extinguisher is used for fire on electrical equipment?",
-    
+    question: "What is the name of the file as shown in the figure?",
+    immg:"img10",
     answer: "Halon type",
     options: [
       "Halon type",
-      "Foam type ",
-      "Gas cartridge type",
-      "Stored pressure type"
+      "Single cut file ",
+      "Double cut file",
+      "Curved cut file"
     ]
   },
      {
