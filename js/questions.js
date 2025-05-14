@@ -81,26 +81,27 @@ let questions = [
   },
   {
     numb: 8,
-    question: "  What is the name of road safety sign? ",
-    immg:"img8",
-    answer: "Mandatory sign",
+    question: "Which disposal method of waste save lot of energy?",
+   
+    answer: "Recycling",
     options: [
-      "Mandatory sign",
-      "Cautionary sign",
-      "Informatory sign ",
-      "Prohibition sign"
+      "Land fill",
+      "Recycling",
+      "Incineration",
+      "Composting"
     ]
   },
       {
     numb: 9,
-    question: "What is the back ground colour of warning signs in the basic category? ",
+    question: "What is the name of the tool as shown in the figure?",
     
-    answer: "Yellow",
+    answer: "Diagonal cutting pliers",
+    immg:"img9",
     options: [
-      "Blue",
-      "White",
-      "Yellow",
-      "Green"
+      "Nose pliers",
+      "Crimping tool",
+      "Combination plier",
+      "Diagonal cutting pliers"
     ]
   },
     {
