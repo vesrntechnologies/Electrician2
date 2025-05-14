@@ -191,50 +191,50 @@ let questions = [
   },
     {
     numb: 17,
-    question: " Which disposal method of waste save lot of energy?",
+    question: "Which type of fire extinguisher is used for fire on electrical equipment?",
     
-    answer: "Recycling ",
+    answer: "Halon type",
     options: [
-      "Land fill",
-      "Recycling ",
-      "Incineration",
-      "Composting"
+      "Halon type",
+      "Foam type",
+      "Gas cartridge water type",
+      "Stored pressure water type"
     ]
   },
      {
     numb: 18,
-    question: " Which artificial respiration method is to be performed to the victim with injuries on the chest and belly? ",
-    
-    answer:"Nelson’s arm-lift back pressure method",
+    question: "What is the name of the tool as shown in the figure?",
+      immg:"img18",
+    answer:"pincer",
     options: [
-      "Schafer’s method",
-      "Mouth to mouth method ",
-      "Mouth to nose method",
-      "Nelson’s arm-lift back pressure method"
+      "wire stripper",
+      "slide cutter",
+      "pincer",
+      "gimlet"
     ]
   },
        {
     numb: 19,
-    question: "Which type of occupational health hazard is cause for infection? ",
+    question: "Which is the correct sequence of operation to be performed while using the fire extinguisher?",
     
-    answer:"Biological hazard",
+    answer:"Pull, Aim, Squeeze, Sweep",
     options: [
-      "Electrical hazard",
-      "Biological hazard",
-      "Physiological hazard",
-      "Psychological hazard"
+      "Pull, Aim, Squeeze, Sweep",
+      "Pull, Aim, Sweep, Squeeze",
+      "Push, Arrange, Squeeze, Sweep",
+      "Push, Arrange, Sweep, Sequence"
     ]
   },
         {
     numb: 20,
-    question: " What is the use of this tool? ",
-    immg:"img20",
-    answer:"Extracting nails from the wood",
+    question: "Which Personal Protective Equipment (PPE) is used for the protection from fumes?",
+   
+    answer:"Respirator",
     options: [
-      "Holding the hot substances",
-      "Cutting and twisting the wires",
-      "Extracting nails from the wood",
-      "Loosening and tightening the bolts and nuts"
+      "Apron",
+      "Goggles",
+      "Ear muff",
+      "Respirator"
     ]
   },  
              {
