@@ -142,50 +142,51 @@ let questions = [
   },
  {
     numb: 13,
-    question: " What is the full form of BIS?",
+    question: "What is the name of the part marked ‘X’ as shown in the figure?",
     immg:"img13",
-    answer: "Bureau of Indian Standard",
+    answer: "Heel",
     options: [
-      "Board of Indian Standard",
-      "Bureau of Indian Standard",
-      "Board of International Standard",
-      "Bureau of International Standard"
+      "Edge",
+      "Tang",
+      "Heel",
+      "point"
     ]
   },
 {
     numb: 14,
-    question: "Which method is used to lift and move heavy loads?",
+    question: "What is the name of the hammer as shown in the figure?",
     
-    answer: "Crane and slings",
+    answer: "claw hammer",
+     immg:"img14",
     options: [
-      "Winches",
-      "Crane and slings",
-      "Layers and Rollers",
-      "Machine moving platforms"
+      "claw hammer",
+      "Ball pein hammer",
+      "Cross pein hammer",
+      "Straight pein hammer"
     ]
   },
     {
     numb: 15,
-    question: "What is starving in extinguishing of fire?",
-    
-    answer: "Removing fuel element from the fire",
+    question: "What is the name of the tool as shown in the figure?",
+     immg:"img15",
+    answer: "Ball pein hammer",
     options: [
-      "Adding fuel to the fire",
-      "Using water to cool the fire",
-      "Removing fuel element from the fire",
-     "Preventing oxygen supply to the fire"
+      "Claw hammer",
+      "Tack hammer",
+      "cross pein hammer",
+     "Ball pein hammer"
     ]
   },
     {
     numb: 16,
-    question: "What is the name of PPE? ",
-     immg:"img16",
-    answer: "Hand screen",
+    question: "Which is the physical hazard?",
+    
+    answer: "Vibration",
     options: [
-      "Nose mask",
-      "Head shield",
-      "Face shield",
-      "Hand screen"
+      "smoking",
+      "Vibration",
+      "corrosive",
+      "bacteria"
     ]
   },
     {
