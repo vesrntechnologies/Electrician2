@@ -127,7 +127,7 @@ function showQuetions(index){
     document.getElementById("Ques").appendChild(x);
         }
 
-        if (questions[index].immg=="img8")
+        if (questions[index].immg=="img9")
             {
                 var x = document.createElement("IMG");
         x.setAttribute("src", "https://vesrntechnologies.github.io//Electrician//Images//8.png");
