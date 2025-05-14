@@ -130,7 +130,7 @@ function showQuetions(index){
         if (questions[index].immg=="img9")
             {
                 var x = document.createElement("IMG");
-        x.setAttribute("src", "https://vesrntechnologies.github.io//Electrician//Images//8.png");
+        x.setAttribute("src", "https://vesrntechnologies.github.io//Electrician//Images//9.png");
         //x.setAttribute("width", "304");
        // x.setAttribute("height", "228");
         x.setAttribute("alt", "Image Can not Display");
