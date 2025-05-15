@@ -239,51 +239,51 @@ let questions = [
   },  
              {
     numb: 21,
-    question: " How will you diagnose the victim is suffering under cardiac arrest?",
+    question: "What is starving in extinguishing of fire?",
     
-    answer:"Appears blue colour around his lips",
+    answer:"Removing fuel element from the fire",
     options: [
-      "Gets pain in spinal guard",
-      "Mouth will be closed tightly ",
-      "Heavy swelling on his stomach",
-      "Appears blue colour around his lips"
+      "Adding fue to the fire",
+      "Using water to cool the fire ",
+      "Removing fuel element from the fire",
+      "Preventing oxygen supply to the fire"
     ]
   },
                  
         {
     numb: 22,
-    question: " What is the name of the tool? ",
-    immg:"img22",
-    answer:"Diagonal cutting pliers",
+    question: "Which artificial respiration method is to be performed to the victim with injuries on the chest and belly?",
+    
+    answer:"Mouth to mouth method",
     options: [
-      "Wire stripper",
-      "Crimping tool",
-      "Combination pliers",
-      "Diagonal cutting pliers"
+      "Schafers method",
+      "Mouth to mouth method",
+      "Holger Nelson back pressure method",
+      "Nelson arm lift back pressure method"
     ]
   },  
      {
     numb: 23,
-    question: "What is the name of the safety sign?  ",
-    immg:"img23",
-    answer:"Information sign",
+    question: "Which type of occupational health hazard is cause for infection due to bacteria?",
+    
+    answer:"Biological hazard",
     options: [
-      "Warning sign",
-      "Mandatory sign",
-      "Prohibition sign",
-      "Information sign"
+      "Electrical Hazard",
+      "Physiological hazard",
+      "Biological hazard",
+      "Pschological hazard"
     ]
   }, 
      {
     numb: 24,
-    question: "What will be first-aid to be given to stop the bleeding of the victim?",
+    question: "Which is the golden hour for the victim injured on head with risk of dying?",
     
-    answer: "Applying pressure over the injured portion",
+    answer: "First 30 minutes",
     options: [
-      "Applying ointment",
-      "Keep the injured portion upward",
-      "Covering the wound portion by dressing",
-     "Applying pressure over the injured portion"
+      "First 15 minutes",
+      "First 30 minutes",
+      "First 45 minutes",
+     "First 60 minutes"
     ]
   },
   {
