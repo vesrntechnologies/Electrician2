@@ -553,6 +553,71 @@ let questions = [
      "Glass"
     ]
   },
+     {
+    numb: 46,
+    question: "Identify the conventional symbol of material?",
+    immg:"img46",
+    answer: "Wood",
+ 
+    options: [
+      "Lead",
+      "Glass",
+      "Wood",
+     "Paper"
+    ]
+  },
+     {
+    numb: 47,
+    question: "Identify the name of instrument?",
+    immg:"img47",
+    answer: "Protractor",
+ 
+    options: [
+      "Set Square",
+      "Protractor",
+      "French curve",
+     "T Square"
+    ]
+  },
+      {
+    numb: 48,
+    question: "Identify the name of set square?",
+    immg:"img48",
+    answer: "45o set square",
+ 
+    options: [
+      "15o Set Square",
+      "60o set square",
+      "30o set square",
+     "45o set square"
+    ]
+  },
+      {
+    numb: 49,
+    question: "Compass used to draw for___.",
+    
+    answer: "circle",
+ 
+    options: [
+      "rectangle",
+      "square",
+      "circle",
+     "triangle"
+    ]
+  },
+      {
+    numb: 50,
+    question: "a+b = 15, a-b=10 Then 4ab=? ",
+    
+    answer: "125",
+ 
+    options: [
+      "125",
+      "100",
+      "120",
+     "135"
+    ]
+  },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
