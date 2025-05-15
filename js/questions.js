@@ -108,12 +108,12 @@ let questions = [
     numb: 10,
     question: "What is the name of the file as shown in the figure?",
     immg:"img10",
-    answer: "Halon type",
+    answer: "Rasp cut file",
     options: [
-      "Halon type",
+      "Curved cut file",
       "Single cut file ",
       "Double cut file",
-      "Curved cut file"
+      "Rasp cut file"
     ]
   },
      {
