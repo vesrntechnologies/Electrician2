@@ -288,75 +288,75 @@ let questions = [
   },
   {
     numb: 25,
-    question: " What immediate action should be taken to rescue the victim, if he is still in contact with the electrical power supply?",
+    question: "Which condition of the victim is referred as COMA stage?",
     
-    answer: "Break the contact by switching OFF the power supply",
+    answer: "Lie totally senseless and do not respond to calls",
     options: [
-      "Pull or push him from the contact by hand",
-      "Inform your authority about this electric shock",
-      "Call someone for helping to remove him from contact",
-     "Break the contact by switching OFF the power supply"
+      "Un consscious but can respond to calls",
+      "Consicous but cannot resopnd to call",
+      "Breathing and respond to call",
+     "Lie totally senseless and do not respond to calls"
     ]
   },        
                {
     numb: 26,
-    question: "What is the name of the cautionary sign?  ",
-    immg:"img26",
-    answer:"Pedestrian crossing",
+    question: "Which criteria must be satisfied for the quality of PPE s?",
+    
+    answer:"It should with stand the hazards",
     options: [
-      "School",
-      "Guarded",
-      "Unguarded ",
-      "Pedestrian crossing"
+      "It should with stand the hazards",
+      "It cannot be used for long period",
+      "made by non standard material",
+      "low cost"
     ]
   }, 
      {
     numb: 27,
-    question: " Which is the golden hour for the victim injured on head with risk of dying?",
+    question: "What is the possible range to measure the size of the wire in a Standard Wire Gauge(SWG)?",
     
-    answer: "First 30 minutes",
+    answer: "0-36",
     options: [
-      "First 15 minutes",
-      "First 30 minutes",
-      "First 45 minutes",
-     "First 60 minutes "
+      "0-44",
+      "0-42",
+      "0-38",
+     "0-36"
     ]
   },
           {
     numb: 28,
-    question: "Which condition of the victim is referred as COMA stage? ",
-    
-    answer: "Lie totally senseless and do not respond to calls",
+    question: "What is the name of the wire joint as shown in the figure?",
+    immg:"img28",
+    answer: "Knotted tap joint",
     options: [
-      "Unconscious but can respond to calls",
-      "Conscious but cannot respond to calls ",
-      "Breathing but cannot respond to calls",
-     "Lie totally senseless and do not respond to calls"
+      "Aerial tap joint",
+      "Knotted tap joint",
+      "Duplex cross tap joint",
+     "Double cross tap joint"
     ]
   },
 
       {
     numb: 29,
-    question: "What is the cause for twisting defect in timber? ",
+    question: "What is the full form of XLPE Cable?",
     
-    answer: "Uneven shrinkage",
+    answer: "Cross Linked Poly Ethylene",
     options: [
-      "Defective Storage",
-      "Uneven shrinkage",
-      "Improper seasoning",
-     "Irregularity in growth of branches"
+      "Cross Line Poly Ethylene",
+      "X ess Line Phase Earthing",
+      "Cross Linked Poly Ethylene",
+     "Excess Length Paper and Ebonite"
     ]
   },
       {
     numb: 30,
-    question: "Which type of cold chisel is used for squaring materials at the corners?",
+    question: "How many electrons are there in the valence shell of a copper atom?",
     
-    answer: "Diamond point chisel",
+    answer: "1",
     options: [
-      "Web chisel",
-      "Cross cut chisel",
-      "Half round chisel",
-     "Diamond point chisel"
+      "1",
+      "2",
+      "8",
+     "18"
     ]
   }
     
