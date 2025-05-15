@@ -238,6 +238,130 @@ let questions = [
     ]
   },  
     
+             {
+    numb: 21,
+    question: "What is starving in extinguishing of fire?",
+    
+    answer:"Removing fuel element from the fire",
+    options: [
+      "Adding fue to the fire",
+      "Using water to cool the fire ",
+      "Removing fuel element from the fire",
+      "Preventing oxygen supply to the fire"
+    ]
+  },
+                 
+        {
+    numb: 22,
+    question: "Which artificial respiration method is to be performed to the victim with injuries on the chest and belly?",
+    
+    answer:"Mouth to mouth method",
+    options: [
+      "Schafers method",
+      "Mouth to mouth method",
+      "Holger Nelson back pressure method",
+      "Nelson arm lift back pressure method"
+    ]
+  },  
+     {
+    numb: 23,
+    question: "Which type of occupational health hazard is cause for infection due to bacteria?",
+    
+    answer:"Biological hazard",
+    options: [
+      "Electrical Hazard",
+      "Physiological hazard",
+      "Biological hazard",
+      "Pschological hazard"
+    ]
+  }, 
+     {
+    numb: 24,
+    question: "Which is the golden hour for the victim injured on head with risk of dying?",
+    
+    answer: "First 30 minutes",
+    options: [
+      "First 15 minutes",
+      "First 30 minutes",
+      "First 45 minutes",
+     "First 60 minutes"
+    ]
+  },
+  {
+    numb: 25,
+    question: "Which condition of the victim is referred as COMA stage?",
+    
+    answer: "Lie totally senseless and do not respond to calls",
+    options: [
+      "Un consscious but can respond to calls",
+      "Consicous but cannot resopnd to call",
+      "Breathing and respond to call",
+     "Lie totally senseless and do not respond to calls"
+    ]
+  },        
+               {
+    numb: 26,
+    question: "Which criteria must be satisfied for the quality of PPE s?",
+    
+    answer:"It should with stand the hazards",
+    options: [
+      "It should with stand the hazards",
+      "It cannot be used for long period",
+      "made by non standard material",
+      "low cost"
+    ]
+  }, 
+     {
+    numb: 27,
+    question: "What is the possible range to measure the size of the wire in a Standard Wire Gauge(SWG)?",
+    
+    answer: "0-36",
+    options: [
+      "0-44",
+      "0-42",
+      "0-38",
+     "0-36"
+    ]
+  },
+          {
+    numb: 28,
+    question: "What is the name of the wire joint as shown in the figure?",
+    immg:"img28",
+    answer: "Knotted tap joint",
+    options: [
+      "Aerial tap joint",
+      "Knotted tap joint",
+      "Duplex cross tap joint",
+     "Double cross tap joint"
+    ]
+  },
+
+      {
+    numb: 29,
+    question: "What is the full form of XLPE Cable?",
+    
+    answer: "Cross Linked Poly Ethylene",
+    options: [
+      "Cross Line Poly Ethylene",
+      "X ess Line Phase Earthing",
+      "Cross Linked Poly Ethylene",
+     "Excess Length Paper and Ebonite"
+    ]
+  },
+      {
+    numb: 30,
+    question: "How many electrons are there in the valence shell of a copper atom?",
+    
+    answer: "1",
+    options: [
+      "1",
+      "2",
+      "8",
+     "18"
+    ]
+  },
+    
+    
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
