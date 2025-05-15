@@ -360,8 +360,146 @@ let questions = [
      "18"
     ]
   },
+      {
+    numb: 31,
+    question: "Which effect of the electric current takes place in the neon lamp?",
     
+    answer: "Gas ionization effect",
+    options: [
+      "Heating effect",
+      "Magnetic effect",
+      "Chemical effect",
+     "Gas ionization effect"
+    ]
+  },
+      {
+    numb: 32,
+    question: "What is the unit of insulation resistance?",
     
+    answer: "Mega ohm",
+    options: [
+      "Ohm",
+      "Kilo ohm",
+      "Milli Ohm",
+     "Mega ohm"
+    ]
+  },
+     {
+    numb: 33,
+    question: "Which type of soldering flux is used for soldering aluminium conductors?",
+    
+    answer: "Kynal flux",
+    options: [
+      "Tallow",
+      "Kynal flux",
+      "Zinc Chloride",
+     "Sal ammonia"
+    ]
+  },
+      {
+    numb: 34,
+    question: "What is the name of the part marked X in UG cables as shown in the figure?",
+    
+    answer: "Lead sheath",
+    immg:"img34",
+    options: [
+      "Serving",
+      "Bedding",
+      "Armouring",
+     "Lead sheath"
+    ]
+  },
+     {
+    numb: 35,
+    question: "What is the name of the joint as shown in the figure?",
+    
+    answer: "Married joint",
+    immg:"img35",
+    options: [
+      "Married joint",
+      "Scarfed Joint",
+      "Western Union Joint",
+     "Britannia Sraight Joint"
+    ]
+  },
+     {
+    numb: 36,
+    question: "What is the use of Britannia T joint?",
+    
+    answer: "Tapping the service connection from overhead lines",
+    
+    options: [
+      "Extending the length of the lines",
+      "Inside and outside wiring installation",
+      "Mechanical stress not required on conductor",
+     "Tapping the service connection from overhead lines"
+    ]
+  },
+     {
+    numb: 37,
+    question: "What is the name of the part marked X of the belted U.G cable as shown in the figure?",
+    
+    answer: "Lead sheath",
+    immg:"img37",
+    options: [
+      "Jute filling",
+      "Armouring",
+      "Lead sheath",
+     "Paper insulation"
+    ]
+  },
+     {
+    numb: 38,
+    question: "What is the purpose of the bedding insulation in the U.G. cable?",
+    
+    answer: "Protect the metallic sheath against corrosion",
+ 
+    options: [
+      "Protect the cable fromn mechanical injury",
+      "Protect the cable from moisture and gases",
+      "Protect armouring from atomspheric condition",
+     "Protect the metallic sheath against corrosion"
+    ]
+  },
+      {
+    numb: 39,
+    question: "What are the two classifications of system of units?",
+    
+    answer: "Fundamental and derived",
+ 
+    options: [
+      "British and Metric",
+      "Gravitational and non gravitational",
+      "Fundamental and derived",
+     "Metric and International"
+    ]
+  },
+      {
+    numb: 40,
+    question: "What are fundamental units?",
+    
+    answer: "Length, Mass, Time",
+ 
+    options: [
+      "Length, Mass, Volume",
+      "Length, Mass, Time",
+      "Length, Mass, Area",
+     "Length, Pressure, Volume"
+    ]
+  },
+       {
+    numb: 41,
+    question: "What denotes letter ' in MKS system?",
+    
+    answer: "Meter",
+ 
+    options: [
+      "Mile",
+      "Milli Meter",
+      "Meter",
+     "Micron"
+    ]
+  },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
