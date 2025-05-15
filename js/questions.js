@@ -500,6 +500,59 @@ let questions = [
      "Micron"
     ]
   },
+
+       {
+    numb: 42,
+    question: "How many millimetres are there in 1 inch?",
+    
+    answer: "25.4mm",
+ 
+    options: [
+      "2.54mm",
+      "25.4mm",
+      "24.5mm",
+     "2.45mm"
+    ]
+  },
+      {
+    numb: 43,
+    question: "Convert decimal 0.000659 to fraction?",
+    
+    answer: "659/1000000",
+ 
+    options: [
+      "659/10000",
+      "659/100000",
+      "659/1000000",
+     "659/1000"
+    ]
+  },
+    {
+    numb: 44,
+    question: "What is the square root of 529?",
+    
+    answer: "23",
+ 
+    options: [
+      "13",
+      "23",
+      "33",
+     "43"
+    ]
+  },
+     {
+    numb: 45,
+    question: "Identify the conventional symbol of material?",
+    immg:"img45",
+    answer: "Water",
+ 
+    options: [
+      "Water",
+      "Concrete",
+      "Asbestos",
+     "Glass"
+    ]
+  },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
